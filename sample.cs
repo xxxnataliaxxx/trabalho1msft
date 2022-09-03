@@ -1,4 +1,4 @@
-// Alteração realizada por natalia
+// Alteração realizada por Natalia
 // Outra alteração realizada por natalia
 
  class Program
